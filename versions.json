@@ -1,0 +1,2657 @@
+[
+  {
+    "releaseName": "22w24a",
+    "versionNumber": "Snapshot 92",
+    "lastKnownDocumentation": ""
+  },
+  {
+    "releaseName": "1.19",
+    "versionNumber": "759",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "1.19-rc2",
+    "versionNumber": "Snapshot 91",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "1.19-rc1",
+    "versionNumber": "Snapshot 90",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "1.19-pre5",
+    "versionNumber": "Snapshot 89",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "1.19-pre4",
+    "versionNumber": "Snapshot 88",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "1.19-pre3",
+    "versionNumber": "Snapshot 87",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "1.19-pre2",
+    "versionNumber": "Snapshot 86",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "1.19-pre1",
+    "versionNumber": "Snapshot 85",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w19a",
+    "versionNumber": "Snapshot 84",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w18a",
+    "versionNumber": "Snapshot 83",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w17a",
+    "versionNumber": "Snapshot 82",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w16b",
+    "versionNumber": "Snapshot 81",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w16a",
+    "versionNumber": "Snapshot 80",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w15a",
+    "versionNumber": "Snapshot 79",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w14a",
+    "versionNumber": "Snapshot 78",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w13oneBlockAtATime",
+    "versionNumber": "Snapshot 77",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w13a",
+    "versionNumber": "Snapshot 76",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w12a",
+    "versionNumber": "Snapshot 75",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "22w11a",
+    "versionNumber": "Snapshot 74",
+    "lastKnownDocumentation": "/Protocol"
+  },
+  {
+    "releaseName": "1.18.2",
+    "versionNumber": "758",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d17499"
+  },
+  {
+    "releaseName": "1.18.2-pre1",
+    "versionNumber": "Snapshot 70",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d17499"
+  },
+  {
+    "releaseName": "1.19-exp1",
+    "versionNumber": "Snapshot 69",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d17499"
+  },
+  {
+    "releaseName": "22w07a",
+    "versionNumber": "Snapshot 68",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d17499"
+  },
+  {
+    "releaseName": "22w06a",
+    "versionNumber": "Snapshot 67",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d17499"
+  },
+  {
+    "releaseName": "22w05a",
+    "versionNumber": "Snapshot 66",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d17499"
+  },
+  {
+    "releaseName": "22w03a",
+    "versionNumber": "Snapshot 65",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d17499"
+  },
+  {
+    "releaseName": "1.18.1",
+    "versionNumber": "757",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d17341"
+  },
+  {
+    "releaseName": "1.18.1-rc3",
+    "versionNumber": "Snapshot 64",
+    "lastKnownDocumentation": "/Pre-release_protocol"
+  },
+  {
+    "releaseName": "1.18.1-rc2",
+    "versionNumber": "Snapshot 63",
+    "lastKnownDocumentation": "/Pre-release_protocol"
+  },
+  {
+    "releaseName": "1.18.1-rc1",
+    "versionNumber": "Snapshot 62",
+    "lastKnownDocumentation": "/Pre-release_protocol"
+  },
+  {
+    "releaseName": "1.18.1-pre1",
+    "versionNumber": "Snapshot 61",
+    "lastKnownDocumentation": "/Pre-release_protocol"
+  },
+  {
+    "releaseName": "1.18",
+    "versionNumber": "757",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d17341"
+  },
+  {
+    "releaseName": "1.18-rc4",
+    "versionNumber": "Snapshot 60",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-rc3",
+    "versionNumber": "Snapshot 59",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-rc2",
+    "versionNumber": "Snapshot 58",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-rc1",
+    "versionNumber": "Snapshot 57",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-pre8",
+    "versionNumber": "Snapshot 56",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-pre7",
+    "versionNumber": "Snapshot 55",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-pre6",
+    "versionNumber": "Snapshot 54",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-pre5",
+    "versionNumber": "Snapshot 53",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-pre4",
+    "versionNumber": "Snapshot 52",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-pre3",
+    "versionNumber": "Snapshot 51",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-pre2",
+    "versionNumber": "Snapshot 50",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "1.18-pre1",
+    "versionNumber": "Snapshot 49",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17160"
+  },
+  {
+    "releaseName": "21w44a",
+    "versionNumber": "Snapshot 48",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "21w43a",
+    "versionNumber": "Snapshot 47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "21w42a",
+    "versionNumber": "Snapshot 46",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "21w41a",
+    "versionNumber": "Snapshot 45",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "21w40a",
+    "versionNumber": "Snapshot 44",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "21w39a",
+    "versionNumber": "Snapshot 43",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "21w38a",
+    "versionNumber": "Snapshot 42",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "21w37a",
+    "versionNumber": "Snapshot 41",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "1.18-exp7",
+    "versionNumber": "Snapshot 47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "1.18-exp6",
+    "versionNumber": "Snapshot 46",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "1.18-exp5",
+    "versionNumber": "Snapshot 45",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "1.18-exp4",
+    "versionNumber": "Snapshot 44",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "1.18-exp3",
+    "versionNumber": "Snapshot 43",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "1.18-exp2",
+    "versionNumber": "Snapshot 42",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "1.18-exp1",
+    "versionNumber": "Snapshot 41",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d17117"
+  },
+  {
+    "releaseName": "1.17.1",
+    "versionNumber": "756",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16918"
+  },
+  {
+    "releaseName": "1.17.1-rc2",
+    "versionNumber": "Snapshot 40",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16918"
+  },
+  {
+    "releaseName": "1.17.1-rc1",
+    "versionNumber": "Snapshot 39",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16918"
+  },
+  {
+    "releaseName": "1.17.1-pre3",
+    "versionNumber": "Snapshot 38",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16918"
+  },
+  {
+    "releaseName": "1.17.1-pre2",
+    "versionNumber": "Snapshot 37",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16918"
+  },
+  {
+    "releaseName": "1.17.1-pre1",
+    "versionNumber": "Snapshot 36",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16918"
+  },
+  {
+    "releaseName": "1.17",
+    "versionNumber": "755",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16866"
+  },
+  {
+    "releaseName": "1.17-rc2",
+    "versionNumber": "Snapshot 35",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "1.17-rc1",
+    "versionNumber": "Snapshot 34",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "1.17-pre5",
+    "versionNumber": "Snapshot 33",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "1.17-pre4",
+    "versionNumber": "Snapshot 32",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "1.17-pre3",
+    "versionNumber": "Snapshot 31",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "1.17-pre2",
+    "versionNumber": "Snapshot 30",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "1.17-pre1",
+    "versionNumber": "Snapshot 29",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w20a",
+    "versionNumber": "Snapshot 28",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w19a",
+    "versionNumber": "Snapshot 27",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w18a",
+    "versionNumber": "Snapshot 26",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w17a",
+    "versionNumber": "Snapshot 25",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w16a",
+    "versionNumber": "Snapshot 23",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w15a",
+    "versionNumber": "Snapshot 22",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w14a",
+    "versionNumber": "Snapshot 21",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w13a",
+    "versionNumber": "Snapshot 20",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w11a",
+    "versionNumber": "Snapshot 19",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w10a",
+    "versionNumber": "Snapshot 18",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w08b",
+    "versionNumber": "Snapshot 17",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w08a",
+    "versionNumber": "Snapshot 16",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16737"
+  },
+  {
+    "releaseName": "21w07a",
+    "versionNumber": "Snapshot 15",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16688"
+  },
+  {
+    "releaseName": "21w06a",
+    "versionNumber": "Snapshot 14",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16383"
+  },
+  {
+    "releaseName": "21w05b",
+    "versionNumber": "Snapshot 13",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16380"
+  },
+  {
+    "releaseName": "21w05a",
+    "versionNumber": "Snapshot 12",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16369"
+  },
+  {
+    "releaseName": "21w03a",
+    "versionNumber": "Snapshot 11",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16342"
+  },
+  {
+    "releaseName": "1.16.5",
+    "versionNumber": "754",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16681"
+  },
+  {
+    "releaseName": "1.16.5-rc1",
+    "versionNumber": "Snapshot 10",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16681"
+  },
+  {
+    "releaseName": "20w51a",
+    "versionNumber": "Snapshot 9",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16322"
+  },
+  {
+    "releaseName": "20w49a",
+    "versionNumber": "Snapshot 8",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16222"
+  },
+  {
+    "releaseName": "20w48a",
+    "versionNumber": "Snapshot 7",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16152"
+  },
+  {
+    "releaseName": "20w46a",
+    "versionNumber": "Snapshot 6",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16137"
+  },
+  {
+    "releaseName": "20w45a",
+    "versionNumber": "Snapshot 5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16119"
+  },
+  {
+    "releaseName": "1.16.4",
+    "versionNumber": "754",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16317"
+  },
+  {
+    "releaseName": "1.16.4-rc1",
+    "versionNumber": "Snapshot 3",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16095"
+  },
+  {
+    "releaseName": "1.16.4-pre2",
+    "versionNumber": "Snapshot 2",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16088"
+  },
+  {
+    "releaseName": "1.16.4-pre1",
+    "versionNumber": "Snapshot 1",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16071"
+  },
+  {
+    "releaseName": "1.16.3",
+    "versionNumber": "753",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16091"
+  },
+  {
+    "releaseName": "1.16.3-rc1",
+    "versionNumber": "752",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16029"
+  },
+  {
+    "releaseName": "1.16.2",
+    "versionNumber": "751",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d16001"
+  },
+  {
+    "releaseName": "1.16.2-rc2",
+    "versionNumber": "750",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15972"
+  },
+  {
+    "releaseName": "1.16.2-rc1",
+    "versionNumber": "749",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15967"
+  },
+  {
+    "releaseName": "1.16.2-pre3",
+    "versionNumber": "748",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15962"
+  },
+  {
+    "releaseName": "1.16.2-pre2",
+    "versionNumber": "746",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15958"
+  },
+  {
+    "releaseName": "1.16.2-pre1",
+    "versionNumber": "744",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15956"
+  },
+  {
+    "releaseName": "20w30a",
+    "versionNumber": "743",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15952"
+  },
+  {
+    "releaseName": "20w29a",
+    "versionNumber": "741",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15931"
+  },
+  {
+    "releaseName": "20w28a",
+    "versionNumber": "740",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15924"
+  },
+  {
+    "releaseName": "20w27a",
+    "versionNumber": "738",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15902"
+  },
+  {
+    "releaseName": "1.16.1",
+    "versionNumber": "736",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15895"
+  },
+  {
+    "releaseName": "1.16",
+    "versionNumber": "735",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15878"
+  },
+  {
+    "releaseName": "1.16-rc1",
+    "versionNumber": "734",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15872"
+  },
+  {
+    "releaseName": "1.16-pre8",
+    "versionNumber": "733",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15861"
+  },
+  {
+    "releaseName": "1.16-pre7",
+    "versionNumber": "732",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15857"
+  },
+  {
+    "releaseName": "1.16-pre6",
+    "versionNumber": "730",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15854"
+  },
+  {
+    "releaseName": "1.16-pre5",
+    "versionNumber": "729",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15847"
+  },
+  {
+    "releaseName": "1.16-pre4",
+    "versionNumber": "727",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15843"
+  },
+  {
+    "releaseName": "1.16-pre3",
+    "versionNumber": "725",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15839"
+  },
+  {
+    "releaseName": "1.16-pre2",
+    "versionNumber": "722",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15832"
+  },
+  {
+    "releaseName": "1.16-pre1",
+    "versionNumber": "721",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15831"
+  },
+  {
+    "releaseName": "20w22a",
+    "versionNumber": "719",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15710"
+  },
+  {
+    "releaseName": "20w21a",
+    "versionNumber": "718",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15661"
+  },
+  {
+    "releaseName": "20w20b",
+    "versionNumber": "717",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15646"
+  },
+  {
+    "releaseName": "20w20a",
+    "versionNumber": "716",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15643"
+  },
+  {
+    "releaseName": "20w19a",
+    "versionNumber": "715",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15588"
+  },
+  {
+    "releaseName": "20w18a",
+    "versionNumber": "714",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15577"
+  },
+  {
+    "releaseName": "20w17a",
+    "versionNumber": "713",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15551"
+  },
+  {
+    "releaseName": "20w16a",
+    "versionNumber": "712",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15536"
+  },
+  {
+    "releaseName": "20w15a",
+    "versionNumber": "711",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15514"
+  },
+  {
+    "releaseName": "20w14a",
+    "versionNumber": "710",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15452"
+  },
+  {
+    "releaseName": "20w14∞",
+    "versionNumber": "709",
+    "lastKnownDocumentation": "#cite_note-1"
+  },
+  {
+    "releaseName": "20w13b",
+    "versionNumber": "709",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15392"
+  },
+  {
+    "releaseName": "20w13a",
+    "versionNumber": "708",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15382"
+  },
+  {
+    "releaseName": "20w12a",
+    "versionNumber": "707",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15368"
+  },
+  {
+    "releaseName": "20w11a",
+    "versionNumber": "706",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15336"
+  },
+  {
+    "releaseName": "20w10a",
+    "versionNumber": "705",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15326"
+  },
+  {
+    "releaseName": "20w09a",
+    "versionNumber": "704",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15310"
+  },
+  {
+    "releaseName": "20w08a",
+    "versionNumber": "703",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15306"
+  },
+  {
+    "releaseName": "20w07a",
+    "versionNumber": "702",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15304"
+  },
+  {
+    "releaseName": "20w06a",
+    "versionNumber": "701",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15295"
+  },
+  {
+    "releaseName": "1.15.2",
+    "versionNumber": "578",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d16067"
+  },
+  {
+    "releaseName": "1.15.2-pre2",
+    "versionNumber": "577",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15258"
+  },
+  {
+    "releaseName": "1.15.2-pre1",
+    "versionNumber": "576",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15256"
+  },
+  {
+    "releaseName": "1.15.1",
+    "versionNumber": "575",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15241"
+  },
+  {
+    "releaseName": "1.15.1-pre1",
+    "versionNumber": "574",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15183"
+  },
+  {
+    "releaseName": "1.15",
+    "versionNumber": "573",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15173"
+  },
+  {
+    "releaseName": "1.15-pre7",
+    "versionNumber": "572",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15164"
+  },
+  {
+    "releaseName": "1.15-pre6",
+    "versionNumber": "571",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15158"
+  },
+  {
+    "releaseName": "1.15-pre5",
+    "versionNumber": "570",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15149"
+  },
+  {
+    "releaseName": "1.15-pre4",
+    "versionNumber": "569",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15140"
+  },
+  {
+    "releaseName": "1.15-pre3",
+    "versionNumber": "567",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15122"
+  },
+  {
+    "releaseName": "1.15-pre2",
+    "versionNumber": "566",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15111"
+  },
+  {
+    "releaseName": "1.15-pre1",
+    "versionNumber": "565",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15101"
+  },
+  {
+    "releaseName": "19w46b",
+    "versionNumber": "564",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15073"
+  },
+  {
+    "releaseName": "19w46a",
+    "versionNumber": "563",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15070"
+  },
+  {
+    "releaseName": "19w45b",
+    "versionNumber": "562",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15056"
+  },
+  {
+    "releaseName": "19w45a",
+    "versionNumber": "561",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15054"
+  },
+  {
+    "releaseName": "19w44a",
+    "versionNumber": "560",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15050"
+  },
+  {
+    "releaseName": "19w42a",
+    "versionNumber": "559",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15044"
+  },
+  {
+    "releaseName": "19w41a",
+    "versionNumber": "558",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15032"
+  },
+  {
+    "releaseName": "19w40a",
+    "versionNumber": "557",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d15013"
+  },
+  {
+    "releaseName": "19w39a",
+    "versionNumber": "556",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14987"
+  },
+  {
+    "releaseName": "19w38b",
+    "versionNumber": "555",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14971"
+  },
+  {
+    "releaseName": "19w38a",
+    "versionNumber": "554",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14971"
+  },
+  {
+    "releaseName": "19w37a",
+    "versionNumber": "553",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14971"
+  },
+  {
+    "releaseName": "19w36a",
+    "versionNumber": "552",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14970"
+  },
+  {
+    "releaseName": "19w35a",
+    "versionNumber": "551",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14969"
+  },
+  {
+    "releaseName": "19w34a",
+    "versionNumber": "550",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14968"
+  },
+  {
+    "releaseName": "1.14.4",
+    "versionNumber": "498",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d15346"
+  },
+  {
+    "releaseName": "1.14.4-pre7",
+    "versionNumber": "497",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14868"
+  },
+  {
+    "releaseName": "1.14.4-pre6",
+    "versionNumber": "496",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14864"
+  },
+  {
+    "releaseName": "1.14.4-pre5",
+    "versionNumber": "495",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14862"
+  },
+  {
+    "releaseName": "1.14.4-pre4",
+    "versionNumber": "494",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14856"
+  },
+  {
+    "releaseName": "1.14.4-pre3",
+    "versionNumber": "493",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14849"
+  },
+  {
+    "releaseName": "1.14.4-pre2",
+    "versionNumber": "492",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14837"
+  },
+  {
+    "releaseName": "1.14.4-pre1",
+    "versionNumber": "491",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14835"
+  },
+  {
+    "releaseName": "1.14.3",
+    "versionNumber": "490",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14826"
+  },
+  {
+    "releaseName": "1.14.3 - Combat Test",
+    "versionNumber": "500",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14826"
+  },
+  {
+    "releaseName": "1.14.3-pre4",
+    "versionNumber": "489",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14824"
+  },
+  {
+    "releaseName": "1.14.3-pre3",
+    "versionNumber": "488",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14820"
+  },
+  {
+    "releaseName": "1.14.3-pre2",
+    "versionNumber": "487",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14816"
+  },
+  {
+    "releaseName": "1.14.3-pre1",
+    "versionNumber": "486",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14806"
+  },
+  {
+    "releaseName": "1.14.2",
+    "versionNumber": "485",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14794"
+  },
+  {
+    "releaseName": "1.14.2-pre4",
+    "versionNumber": "484",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14788"
+  },
+  {
+    "releaseName": "1.14.2-pre3",
+    "versionNumber": "483",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14785"
+  },
+  {
+    "releaseName": "1.14.2-pre2",
+    "versionNumber": "482",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14779"
+  },
+  {
+    "releaseName": "1.14.2-pre1",
+    "versionNumber": "481",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14772"
+  },
+  {
+    "releaseName": "1.14.1",
+    "versionNumber": "480",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14770"
+  },
+  {
+    "releaseName": "1.14.1-pre2",
+    "versionNumber": "479",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14762"
+  },
+  {
+    "releaseName": "1.14.1-pre1",
+    "versionNumber": "478",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14757"
+  },
+  {
+    "releaseName": "1.14",
+    "versionNumber": "477",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14752"
+  },
+  {
+    "releaseName": "1.14-pre5",
+    "versionNumber": "476",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14697"
+  },
+  {
+    "releaseName": "1.14-pre4",
+    "versionNumber": "475",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14695"
+  },
+  {
+    "releaseName": "1.14-pre3",
+    "versionNumber": "474",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14691"
+  },
+  {
+    "releaseName": "1.14-pre2",
+    "versionNumber": "473",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14687"
+  },
+  {
+    "releaseName": "1.14-pre1",
+    "versionNumber": "472",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14683"
+  },
+  {
+    "releaseName": "19w14b",
+    "versionNumber": "471",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14670"
+  },
+  {
+    "releaseName": "19w14a",
+    "versionNumber": "470",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14649"
+  },
+  {
+    "releaseName": "19w13b",
+    "versionNumber": "469",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14642"
+  },
+  {
+    "releaseName": "19w13a",
+    "versionNumber": "468",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14639"
+  },
+  {
+    "releaseName": "19w12b",
+    "versionNumber": "467",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14627"
+  },
+  {
+    "releaseName": "19w12a",
+    "versionNumber": "466",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14625"
+  },
+  {
+    "releaseName": "19w11b",
+    "versionNumber": "465",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14613"
+  },
+  {
+    "releaseName": "19w11a",
+    "versionNumber": "464",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14607"
+  },
+  {
+    "releaseName": "19w09a",
+    "versionNumber": "463",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14591"
+  },
+  {
+    "releaseName": "19w08b",
+    "versionNumber": "462",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14586"
+  },
+  {
+    "releaseName": "19w08a",
+    "versionNumber": "461",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14585"
+  },
+  {
+    "releaseName": "19w07a",
+    "versionNumber": "460",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14575"
+  },
+  {
+    "releaseName": "19w06a",
+    "versionNumber": "459",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14562"
+  },
+  {
+    "releaseName": "19w05a",
+    "versionNumber": "458",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14555"
+  },
+  {
+    "releaseName": "19w04b",
+    "versionNumber": "457",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14550"
+  },
+  {
+    "releaseName": "19w04a",
+    "versionNumber": "456",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14548"
+  },
+  {
+    "releaseName": "19w03c",
+    "versionNumber": "455",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14544"
+  },
+  {
+    "releaseName": "19w03b",
+    "versionNumber": "454",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14536"
+  },
+  {
+    "releaseName": "19w03a",
+    "versionNumber": "453",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14530"
+  },
+  {
+    "releaseName": "19w02a",
+    "versionNumber": "452",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14515"
+  },
+  {
+    "releaseName": "18w50a",
+    "versionNumber": "451",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14491"
+  },
+  {
+    "releaseName": "18w49a",
+    "versionNumber": "450",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14467"
+  },
+  {
+    "releaseName": "18w48b",
+    "versionNumber": "449",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14461"
+  },
+  {
+    "releaseName": "18w48a",
+    "versionNumber": "448",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14459"
+  },
+  {
+    "releaseName": "18w47b",
+    "versionNumber": "447",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14452"
+  },
+  {
+    "releaseName": "18w47a",
+    "versionNumber": "446",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14449"
+  },
+  {
+    "releaseName": "18w46a",
+    "versionNumber": "445",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14441"
+  },
+  {
+    "releaseName": "18w45a",
+    "versionNumber": "444",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14418"
+  },
+  {
+    "releaseName": "18w44a",
+    "versionNumber": "443",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14414"
+  },
+  {
+    "releaseName": "18w43c",
+    "versionNumber": "442",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14397"
+  },
+  {
+    "releaseName": "18w43b",
+    "versionNumber": "441",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14381"
+  },
+  {
+    "releaseName": "18w43a",
+    "versionNumber": "441",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14381"
+  },
+  {
+    "releaseName": "1.13.2",
+    "versionNumber": "404",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d14889"
+  },
+  {
+    "releaseName": "1.13.2-pre2",
+    "versionNumber": "403",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14359"
+  },
+  {
+    "releaseName": "1.13.2-pre1",
+    "versionNumber": "402",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14357"
+  },
+  {
+    "releaseName": "1.13.1",
+    "versionNumber": "401",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d14301"
+  },
+  {
+    "releaseName": "1.13.1-pre2",
+    "versionNumber": "400",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14261"
+  },
+  {
+    "releaseName": "1.13.1-pre1",
+    "versionNumber": "399",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14255"
+  },
+  {
+    "releaseName": "18w33a",
+    "versionNumber": "398",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14252"
+  },
+  {
+    "releaseName": "18w32a",
+    "versionNumber": "397",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14247"
+  },
+  {
+    "releaseName": "18w31a",
+    "versionNumber": "396",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14196"
+  },
+  {
+    "releaseName": "18w30b",
+    "versionNumber": "395",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14189"
+  },
+  {
+    "releaseName": "18w30a",
+    "versionNumber": "394",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14158"
+  },
+  {
+    "releaseName": "1.13",
+    "versionNumber": "393",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14150"
+  },
+  {
+    "releaseName": "1.13-pre10",
+    "versionNumber": "392",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14126"
+  },
+  {
+    "releaseName": "1.13-pre9",
+    "versionNumber": "391",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14124"
+  },
+  {
+    "releaseName": "1.13-pre8",
+    "versionNumber": "390",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14117"
+  },
+  {
+    "releaseName": "1.13-pre7",
+    "versionNumber": "389",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14107"
+  },
+  {
+    "releaseName": "1.13-pre6",
+    "versionNumber": "388",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14095"
+  },
+  {
+    "releaseName": "1.13-pre5",
+    "versionNumber": "387",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14088"
+  },
+  {
+    "releaseName": "1.13-pre4",
+    "versionNumber": "386",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14072"
+  },
+  {
+    "releaseName": "1.13-pre3",
+    "versionNumber": "385",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14045"
+  },
+  {
+    "releaseName": "1.13-pre2",
+    "versionNumber": "384",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d14030"
+  },
+  {
+    "releaseName": "1.13-pre1",
+    "versionNumber": "383",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13984"
+  },
+  {
+    "releaseName": "18w22c",
+    "versionNumber": "382",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13965"
+  },
+  {
+    "releaseName": "18w22b",
+    "versionNumber": "381",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13951"
+  },
+  {
+    "releaseName": "18w22a",
+    "versionNumber": "380",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13947"
+  },
+  {
+    "releaseName": "18w21b",
+    "versionNumber": "379",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13932"
+  },
+  {
+    "releaseName": "18w21a",
+    "versionNumber": "378",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13926"
+  },
+  {
+    "releaseName": "18w20c",
+    "versionNumber": "377",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13923"
+  },
+  {
+    "releaseName": "18w20b",
+    "versionNumber": "376",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13913"
+  },
+  {
+    "releaseName": "18w20a",
+    "versionNumber": "375",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13910"
+  },
+  {
+    "releaseName": "18w19b",
+    "versionNumber": "374",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13905"
+  },
+  {
+    "releaseName": "18w19a",
+    "versionNumber": "373",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13896"
+  },
+  {
+    "releaseName": "18w16a",
+    "versionNumber": "372",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13891"
+  },
+  {
+    "releaseName": "18w15a",
+    "versionNumber": "371",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13824"
+  },
+  {
+    "releaseName": "18w14b",
+    "versionNumber": "370",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13744"
+  },
+  {
+    "releaseName": "18w14a",
+    "versionNumber": "369",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13741"
+  },
+  {
+    "releaseName": "18w11a",
+    "versionNumber": "368",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13724"
+  },
+  {
+    "releaseName": "18w10d",
+    "versionNumber": "367",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13702"
+  },
+  {
+    "releaseName": "18w10c",
+    "versionNumber": "366",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13699"
+  },
+  {
+    "releaseName": "18w10b",
+    "versionNumber": "365",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13693"
+  },
+  {
+    "releaseName": "18w10a",
+    "versionNumber": "364",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13692"
+  },
+  {
+    "releaseName": "18w09a",
+    "versionNumber": "363",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13671"
+  },
+  {
+    "releaseName": "18w08b",
+    "versionNumber": "362",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13666"
+  },
+  {
+    "releaseName": "18w08a",
+    "versionNumber": "361",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13662"
+  },
+  {
+    "releaseName": "18w07c",
+    "versionNumber": "360",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13658"
+  },
+  {
+    "releaseName": "18w07b",
+    "versionNumber": "359",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13653"
+  },
+  {
+    "releaseName": "18w07a",
+    "versionNumber": "358",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13648"
+  },
+  {
+    "releaseName": "18w06a",
+    "versionNumber": "357",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13636"
+  },
+  {
+    "releaseName": "18w05a",
+    "versionNumber": "356",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13628"
+  },
+  {
+    "releaseName": "18w03b",
+    "versionNumber": "355",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13623"
+  },
+  {
+    "releaseName": "18w03a",
+    "versionNumber": "354",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13623"
+  },
+  {
+    "releaseName": "18w02a",
+    "versionNumber": "353",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13611"
+  },
+  {
+    "releaseName": "18w01a",
+    "versionNumber": "352",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13576"
+  },
+  {
+    "releaseName": "17w50a",
+    "versionNumber": "351",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13556"
+  },
+  {
+    "releaseName": "17w49b",
+    "versionNumber": "350",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13524"
+  },
+  {
+    "releaseName": "17w49a",
+    "versionNumber": "349",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13516"
+  },
+  {
+    "releaseName": "17w48a",
+    "versionNumber": "348",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13512"
+  },
+  {
+    "releaseName": "17w47b",
+    "versionNumber": "347",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13487"
+  },
+  {
+    "releaseName": "17w47a",
+    "versionNumber": "346",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13476"
+  },
+  {
+    "releaseName": "17w46a",
+    "versionNumber": "345",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13472"
+  },
+  {
+    "releaseName": "17w45b",
+    "versionNumber": "344",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13414"
+  },
+  {
+    "releaseName": "17w45a",
+    "versionNumber": "343",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13413"
+  },
+  {
+    "releaseName": "17w43b",
+    "versionNumber": "342",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13398"
+  },
+  {
+    "releaseName": "17w43a",
+    "versionNumber": "341",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13396"
+  },
+  {
+    "releaseName": "1.12.2",
+    "versionNumber": "340",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d14204"
+  },
+  {
+    "releaseName": "1.12.2-pre2",
+    "versionNumber": "339",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13355"
+  },
+  {
+    "releaseName": "1.12.2-pre1",
+    "versionNumber": "339",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13355"
+  },
+  {
+    "releaseName": "1.12.1",
+    "versionNumber": "338",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d13339"
+  },
+  {
+    "releaseName": "1.12.1-pre1",
+    "versionNumber": "337",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13267"
+  },
+  {
+    "releaseName": "17w31a",
+    "versionNumber": "336",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d13265"
+  },
+  {
+    "releaseName": "1.12",
+    "versionNumber": "335",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d13223"
+  },
+  {
+    "releaseName": "1.12-pre7",
+    "versionNumber": "334",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d12918"
+  },
+  {
+    "releaseName": "1.12-pre6",
+    "versionNumber": "333",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d12909"
+  },
+  {
+    "releaseName": "1.12-pre5",
+    "versionNumber": "332",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d10809"
+  },
+  {
+    "releaseName": "1.12-pre4",
+    "versionNumber": "331",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d10804"
+  },
+  {
+    "releaseName": "1.12-pre3",
+    "versionNumber": "330",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d10803"
+  },
+  {
+    "releaseName": "1.12-pre2",
+    "versionNumber": "329",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d10418"
+  },
+  {
+    "releaseName": "1.12-pre1",
+    "versionNumber": "328",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d9819"
+  },
+  {
+    "releaseName": "17w18b",
+    "versionNumber": "327",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8548"
+  },
+  {
+    "releaseName": "17w18a",
+    "versionNumber": "326",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8546"
+  },
+  {
+    "releaseName": "17w17b",
+    "versionNumber": "325",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8536"
+  },
+  {
+    "releaseName": "17w17a",
+    "versionNumber": "324",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8528"
+  },
+  {
+    "releaseName": "17w16b",
+    "versionNumber": "323",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8519"
+  },
+  {
+    "releaseName": "17w16a",
+    "versionNumber": "322",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8515"
+  },
+  {
+    "releaseName": "17w15a",
+    "versionNumber": "321",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8499"
+  },
+  {
+    "releaseName": "17w14a",
+    "versionNumber": "320",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8490"
+  },
+  {
+    "releaseName": "17w13b",
+    "versionNumber": "319",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8475"
+  },
+  {
+    "releaseName": "17w13a",
+    "versionNumber": "318",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8454"
+  },
+  {
+    "releaseName": "17w06a",
+    "versionNumber": "317",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8414"
+  },
+  {
+    "releaseName": "1.11.2",
+    "versionNumber": "316",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d8543"
+  },
+  {
+    "releaseName": "1.11.1",
+    "versionNumber": "316",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d8543"
+  },
+  {
+    "releaseName": "16w50a",
+    "versionNumber": "316",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d8543"
+  },
+  {
+    "releaseName": "1.11",
+    "versionNumber": "315",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d8405"
+  },
+  {
+    "releaseName": "1.11-pre1",
+    "versionNumber": "314",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8249"
+  },
+  {
+    "releaseName": "16w44a",
+    "versionNumber": "313",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8246"
+  },
+  {
+    "releaseName": "16w43a",
+    "versionNumber": "313",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8246"
+  },
+  {
+    "releaseName": "16w42a",
+    "versionNumber": "312",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8225"
+  },
+  {
+    "releaseName": "16w41a",
+    "versionNumber": "311",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8218"
+  },
+  {
+    "releaseName": "16w40a",
+    "versionNumber": "310",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8204"
+  },
+  {
+    "releaseName": "16w39c",
+    "versionNumber": "309",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8177"
+  },
+  {
+    "releaseName": "16w39b",
+    "versionNumber": "308",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8149"
+  },
+  {
+    "releaseName": "16w39a",
+    "versionNumber": "307",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8141"
+  },
+  {
+    "releaseName": "16w38a",
+    "versionNumber": "306",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8118"
+  },
+  {
+    "releaseName": "16w36a",
+    "versionNumber": "305",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8099"
+  },
+  {
+    "releaseName": "16w35a",
+    "versionNumber": "304",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8094"
+  },
+  {
+    "releaseName": "16w33a",
+    "versionNumber": "303",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8084"
+  },
+  {
+    "releaseName": "16w32b",
+    "versionNumber": "302",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8063"
+  },
+  {
+    "releaseName": "16w32a",
+    "versionNumber": "301",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d8062"
+  },
+  {
+    "releaseName": "1.10.2",
+    "versionNumber": "210",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d8235"
+  },
+  {
+    "releaseName": "1.10.1",
+    "versionNumber": "210",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d8235"
+  },
+  {
+    "releaseName": "1.10",
+    "versionNumber": "210",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d8235"
+  },
+  {
+    "releaseName": "1.10-pre2",
+    "versionNumber": "205",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7961"
+  },
+  {
+    "releaseName": "1.10-pre1",
+    "versionNumber": "204",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7950"
+  },
+  {
+    "releaseName": "16w21b",
+    "versionNumber": "203",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7890"
+  },
+  {
+    "releaseName": "16w21a",
+    "versionNumber": "202",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7877"
+  },
+  {
+    "releaseName": "16w20a",
+    "versionNumber": "201",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7859"
+  },
+  {
+    "releaseName": "1.9.4",
+    "versionNumber": "110",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7959"
+  },
+  {
+    "releaseName": "1.9.3",
+    "versionNumber": "110",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7959"
+  },
+  {
+    "releaseName": "1.9.3-pre3",
+    "versionNumber": "110",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7959"
+  },
+  {
+    "releaseName": "1.9.3-pre2",
+    "versionNumber": "110",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7959"
+  },
+  {
+    "releaseName": "1.9.3-pre1",
+    "versionNumber": "109",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7817"
+  },
+  {
+    "releaseName": "16w15b",
+    "versionNumber": "109",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7817"
+  },
+  {
+    "releaseName": "16w15a",
+    "versionNumber": "109",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7817"
+  },
+  {
+    "releaseName": "16w14a",
+    "versionNumber": "109",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7817"
+  },
+  {
+    "releaseName": "1.9.2",
+    "versionNumber": "109",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7817"
+  },
+  {
+    "releaseName": "1.RV-Pre1",
+    "versionNumber": "108",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7552"
+  },
+  {
+    "releaseName": "1.9.1",
+    "versionNumber": "108",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7552"
+  },
+  {
+    "releaseName": "1.9.1-pre3",
+    "versionNumber": "108",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7552"
+  },
+  {
+    "releaseName": "1.9.1-pre2",
+    "versionNumber": "108",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7552"
+  },
+  {
+    "releaseName": "1.9.1-pre1",
+    "versionNumber": "107",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7617"
+  },
+  {
+    "releaseName": "1.9",
+    "versionNumber": "107",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7617"
+  },
+  {
+    "releaseName": "1.9-pre4",
+    "versionNumber": "106",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "1.9-pre3",
+    "versionNumber": "105",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "1.9-pre2",
+    "versionNumber": "104",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "1.9-pre1",
+    "versionNumber": "103",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "16w07b",
+    "versionNumber": "102",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "16w07a",
+    "versionNumber": "101",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "16w06a",
+    "versionNumber": "100",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "16w05b",
+    "versionNumber": "99",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "16w05a",
+    "versionNumber": "98",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "16w04a",
+    "versionNumber": "97",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "16w03a",
+    "versionNumber": "96",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7401"
+  },
+  {
+    "releaseName": "16w02a",
+    "versionNumber": "95",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7268"
+  },
+  {
+    "releaseName": "15w51b",
+    "versionNumber": "94",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w51a",
+    "versionNumber": "93",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w50a",
+    "versionNumber": "92",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w49b",
+    "versionNumber": "91",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w49a",
+    "versionNumber": "90",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w47c",
+    "versionNumber": "89",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w47b",
+    "versionNumber": "88",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w47a",
+    "versionNumber": "87",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w46a",
+    "versionNumber": "86",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w45a",
+    "versionNumber": "85",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w44b",
+    "versionNumber": "84",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w44a",
+    "versionNumber": "83",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w43c",
+    "versionNumber": "82",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w43b",
+    "versionNumber": "81",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w43a",
+    "versionNumber": "80",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w42a",
+    "versionNumber": "79",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w41b",
+    "versionNumber": "78",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w41a",
+    "versionNumber": "77",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7193"
+  },
+  {
+    "releaseName": "15w40b",
+    "versionNumber": "76",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7087"
+  },
+  {
+    "releaseName": "15w40a",
+    "versionNumber": "75",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7087"
+  },
+  {
+    "releaseName": "15w39c",
+    "versionNumber": "74",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7087"
+  },
+  {
+    "releaseName": "15w39b",
+    "versionNumber": "74",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7087"
+  },
+  {
+    "releaseName": "15w39a",
+    "versionNumber": "74",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d7087"
+  },
+  {
+    "releaseName": "15w38b",
+    "versionNumber": "73",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6935"
+  },
+  {
+    "releaseName": "15w38a",
+    "versionNumber": "72",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6932"
+  },
+  {
+    "releaseName": "15w37a",
+    "versionNumber": "71",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6932"
+  },
+  {
+    "releaseName": "15w36d",
+    "versionNumber": "70",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6901"
+  },
+  {
+    "releaseName": "15w36c",
+    "versionNumber": "69",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6881"
+  },
+  {
+    "releaseName": "15w36b",
+    "versionNumber": "68",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6881"
+  },
+  {
+    "releaseName": "15w36a",
+    "versionNumber": "67",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6881"
+  },
+  {
+    "releaseName": "15w35e",
+    "versionNumber": "66",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6851"
+  },
+  {
+    "releaseName": "15w35d",
+    "versionNumber": "65",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6851"
+  },
+  {
+    "releaseName": "15w35c",
+    "versionNumber": "64",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6851"
+  },
+  {
+    "releaseName": "15w35b",
+    "versionNumber": "63",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6829"
+  },
+  {
+    "releaseName": "15w35a",
+    "versionNumber": "62",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6829"
+  },
+  {
+    "releaseName": "15w34d",
+    "versionNumber": "61",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6829"
+  },
+  {
+    "releaseName": "15w34c",
+    "versionNumber": "60",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6829"
+  },
+  {
+    "releaseName": "15w34b",
+    "versionNumber": "59",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6829"
+  },
+  {
+    "releaseName": "15w34a",
+    "versionNumber": "58",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6809"
+  },
+  {
+    "releaseName": "15w33c",
+    "versionNumber": "57",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6806"
+  },
+  {
+    "releaseName": "15w33b",
+    "versionNumber": "56",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6796"
+  },
+  {
+    "releaseName": "15w33a",
+    "versionNumber": "55",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6790"
+  },
+  {
+    "releaseName": "15w32c",
+    "versionNumber": "54",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6788"
+  },
+  {
+    "releaseName": "15w32b",
+    "versionNumber": "53",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6788"
+  },
+  {
+    "releaseName": "15w32a",
+    "versionNumber": "52",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6785"
+  },
+  {
+    "releaseName": "15w31c",
+    "versionNumber": "51",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6780"
+  },
+  {
+    "releaseName": "15w31b",
+    "versionNumber": "50",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6746"
+  },
+  {
+    "releaseName": "15w31a",
+    "versionNumber": "49",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6746"
+  },
+  {
+    "releaseName": "15w14a",
+    "versionNumber": "48",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d6746"
+  },
+  {
+    "releaseName": "1.8.9",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.8",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.7",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.6",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.5",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.4",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.3",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.2",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.2-pre7",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.2-pre6",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.2-pre5",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.2-pre4",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.2-pre3",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.2-pre2",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.2-pre1",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.1",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.1-pre5",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.1-pre4",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.1-pre3",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.1-pre2",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8.1-pre1",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8",
+    "versionNumber": "47",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8-pre3",
+    "versionNumber": "46",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8-pre2",
+    "versionNumber": "45",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "1.8-pre1",
+    "versionNumber": "44",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w34d",
+    "versionNumber": "43",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w34c",
+    "versionNumber": "42",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w34b",
+    "versionNumber": "41",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w34a",
+    "versionNumber": "40",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w33c",
+    "versionNumber": "39",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w33b",
+    "versionNumber": "38",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w33a",
+    "versionNumber": "37",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w32d",
+    "versionNumber": "36",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w32c",
+    "versionNumber": "35",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w32b",
+    "versionNumber": "34",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w32a",
+    "versionNumber": "33",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w31a",
+    "versionNumber": "32",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w30c",
+    "versionNumber": "31",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w30b",
+    "versionNumber": "30",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w30a",
+    "versionNumber": "30",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w29a",
+    "versionNumber": "29",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w28b",
+    "versionNumber": "28",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w28a",
+    "versionNumber": "27",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w27b",
+    "versionNumber": "26",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w27a",
+    "versionNumber": "26",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w26c",
+    "versionNumber": "25",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w26b",
+    "versionNumber": "24",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w26a",
+    "versionNumber": "23",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w25b",
+    "versionNumber": "22",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w25a",
+    "versionNumber": "21",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w21b",
+    "versionNumber": "20",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w21a",
+    "versionNumber": "19",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w20b",
+    "versionNumber": "18",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w20a",
+    "versionNumber": "18",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w19a",
+    "versionNumber": "17",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w18b",
+    "versionNumber": "16",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w18a",
+    "versionNumber": "16",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w17a",
+    "versionNumber": "15",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w11b",
+    "versionNumber": "14",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w11a",
+    "versionNumber": "14",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w10c",
+    "versionNumber": "13",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w10b",
+    "versionNumber": "13",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w10a",
+    "versionNumber": "13",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w08a",
+    "versionNumber": "12",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w07a",
+    "versionNumber": "11",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w06b",
+    "versionNumber": "10",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w06a",
+    "versionNumber": "10",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w05b",
+    "versionNumber": "9",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w05a",
+    "versionNumber": "9",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w04b",
+    "versionNumber": "8",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w04a",
+    "versionNumber": "7",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w03b",
+    "versionNumber": "6",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w03a",
+    "versionNumber": "6",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d7368"
+  },
+  {
+    "releaseName": "14w02c",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "14w02b",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "14w02a",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.10",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.10-pre4",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.10-pre3",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.10-pre2",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.10-pre1",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.9",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.8",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.7",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.6",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.6-pre2",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.6-pre1",
+    "versionNumber": "5",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d6003"
+  },
+  {
+    "releaseName": "1.7.5",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "1.7.4",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "1.7.3-pre",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "13w49a",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "13w48b",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "13w48a",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "13w47e",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "13w47d",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "13w47c",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "13w47b",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "13w47a",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "1.7.2",
+    "versionNumber": "4",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "1.7.1-pre",
+    "versionNumber": "3",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "1.7-pre",
+    "versionNumber": "3",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "13w43a",
+    "versionNumber": "2",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dProtocol\u0026amp;oldid\u003d5486"
+  },
+  {
+    "releaseName": "13w42b",
+    "versionNumber": "1",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d5042"
+  },
+  {
+    "releaseName": "13w42a",
+    "versionNumber": "1",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d5042"
+  },
+  {
+    "releaseName": "13w41b",
+    "versionNumber": "0",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d5007"
+  },
+  {
+    "releaseName": "13w41a",
+    "versionNumber": "0",
+    "lastKnownDocumentation": "https://wiki.vg/index.php?title\u003dPre-release_protocol\u0026amp;oldid\u003d4957"
+  }
+]
